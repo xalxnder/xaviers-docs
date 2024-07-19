@@ -1,11 +1,13 @@
 site_name: Xavier's Docs
 theme:
   name: material
+  custom_dir: overrides
   features:
     - navigation.tabs
     - navigation.sections
     - toc.integrate
     - navigation.top
+    - navigation.indexes
     - search.suggest
     - search.highlight
     - content.tabs.link
@@ -43,3 +45,10 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+nav:
+  - Home: https://example.com
+  - Knowledge Base:
+      - "Start Here": index.md
+      - Network:
+          - Mac: network/mac.md
