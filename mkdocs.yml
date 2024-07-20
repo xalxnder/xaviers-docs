@@ -1,7 +1,7 @@
 site_name: Xavier's Docs
 theme:
   name: material
-  custom_dir: overrides
+  # custom_dir: overrides
   features:
     - navigation.tabs
     - navigation.sections
@@ -49,6 +49,11 @@ markdown_extensions:
 nav:
   - Home: https://example.com
   - Knowledge Base:
+      - kb/index.md
       - "Start Here": index.md
       - Network:
           - Mac: network/mac.md
+      - Ansible:
+          - Architecture: ansible/architecture.md
+      - Docker:
+          - Architecture: docker/architecture.md
