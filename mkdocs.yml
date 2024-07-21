@@ -3,7 +3,6 @@ theme:
   name: material
   features:
     - navigation.tabs
-    - navigation.sections
     - toc.integrate
     - navigation.top
     - navigation.indexes
@@ -50,10 +49,11 @@ nav:
   - Knowledge Base:
       - kb/index.md
       - "Start Here": index.md
-      - Network:
-          - Mac: network/mac.md
+      - Networks:
+          - networks/index.md
       - Ansible:
           - ansible/index.md
           - Architecture: ansible/architecture.md
       - Docker:
+          - docker/index.md
           - Architecture: docker/architecture.md
