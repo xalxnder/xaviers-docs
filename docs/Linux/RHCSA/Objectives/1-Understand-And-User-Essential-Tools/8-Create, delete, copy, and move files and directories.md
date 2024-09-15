@@ -1,0 +1,8 @@
+- touch - This creates a file
+- rm - This can delete a file. Use `-d` to delete a directory. 
+- rmdir - Used to delete a directory
+	- If a directory is NOT empty, you'll need to use -f
+- cp - Used to copy files
+- mv - Used to move/rename files
+- mkdir - Used to create directories. 
+	- Use the `-p` flag to create directories recursively. 

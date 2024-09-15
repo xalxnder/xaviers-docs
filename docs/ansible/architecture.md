@@ -1,5 +1,0 @@
----
-title: Ansible Architecture
----
-
-# Test 

@@ -53,7 +53,23 @@ nav:
           - networks/index.md
       - Ansible:
           - ansible/index.md
-          - Architecture: ansible/architecture.md
+          - Ad-Hoc: ansible/Ad_Hoc.md
       - Docker:
           - docker/index.md
           - Architecture: docker/architecture.md
+          - Basics: docker/basics.md
+      - Kubernetes:
+          - CKAD:
+              - kubernetes/ckad/index.md
+              - 3 Understanding Kubernetes:
+                - kubernetes/ckad/3_Understanding_Kubernetes/3_1_CNC.md
+                - kubernetes/ckad/3_Understanding_Kubernetes/3_2_how_k8s_enables_cncf.md
+                - kubernetes/ckad/3_Understanding_Kubernetes/3_5_k8s_architecture.md
+                - kubernetes/ckad/3_Understanding_Kubernetes/3_6_essential_api_resources.md
+      - Python:
+          Flask:
+            - Baiscs: python/Flask/Basics.md
+          Requests:
+            - python/requests/json_vs_data.md
+
+

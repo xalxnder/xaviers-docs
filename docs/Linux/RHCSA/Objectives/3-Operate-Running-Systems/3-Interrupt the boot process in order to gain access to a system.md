@@ -1,0 +1,1 @@
+At the beginning of the boot process, at the **GRUB 2** menu, type the `e` key to edit.

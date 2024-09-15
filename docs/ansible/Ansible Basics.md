@@ -1,0 +1,3 @@
+Control Node - Where Ansible software is installed. Consider it as an operator workstation, and not so much a server. 
+Managed Nodes - Computers running Windows or Linux, cloud instances, VMs, containers etc..
+Inventory - Inventories organize managed nodes in centralized files that provide Ansible with system information and network locations. Using an inventory file, Ansible can manage a large number of hosts with a single command.

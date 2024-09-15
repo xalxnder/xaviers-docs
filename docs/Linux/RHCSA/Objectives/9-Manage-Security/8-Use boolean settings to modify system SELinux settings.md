@@ -1,0 +1,3 @@
+- semanage boolean -l 
+- setsebool -P  *boolean* [on|off]
+	- Example -  `setsebool -P ftpd_anon_write on

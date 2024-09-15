@@ -1,0 +1,8 @@
+- Find a file named `document.pdf` in the `/home/linuxize`
+- Find all files ending with `.log.gz` inside the `/var/log/nginx`
+- Find all directories in your current working directory
+- Find all files of exactly `1024` bytes inside the `/tmp` directory.
+- Find files less than `1MB` inside the current working directory.
+- files with a size greater than `1MB`
+- Find all files with permissions of exactly `775` inside the `/var/www/html` directory
+- - Find files less than `500 MB` inside the current working directory and copy them to the `/tmp `directory
