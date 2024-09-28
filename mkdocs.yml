@@ -74,6 +74,8 @@ nav:
                 - kubernetes/ckad/5_Pod_Basic_Features/5_2_Pod_Structure_And_Use.md
                 - kubernetes/ckad/5_Pod_Basic_Features/5_3_Pods_The_DevOps_Way.md
                 - kubernetes/ckad/5_Pod_Basic_Features/5_4_Generating_YAML_Files.md
+                - kubernetes/ckad/5_Pod_Basic_Features/5_5_Multi_Container_Pods.md
+
       - Python:
           Flask:
             - Baiscs: python/Flask/Basics.md
