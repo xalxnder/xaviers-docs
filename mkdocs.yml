@@ -61,11 +61,14 @@ nav:
       - Kubernetes:
           - CKAD:
               - kubernetes/ckad/index.md
-              - 3 Understanding Kubernetes:
+              - 3 - Understanding Kubernetes:
                 - kubernetes/ckad/3_Understanding_Kubernetes/3_1_CNC.md
                 - kubernetes/ckad/3_Understanding_Kubernetes/3_2_how_k8s_enables_cncf.md
                 - kubernetes/ckad/3_Understanding_Kubernetes/3_5_k8s_architecture.md
                 - kubernetes/ckad/3_Understanding_Kubernetes/3_6_essential_api_resources.md
+              - 5 - Pod Basic Features:
+                - kubernetes/ckad/5_Pod_Basic_Features/5_1_Options.md
+                - kubernetes/ckad/5_Pod_Basic_Features/5_2_Pod_Structure_And_Use.md
       - Python:
           Flask:
             - Baiscs: python/Flask/Basics.md

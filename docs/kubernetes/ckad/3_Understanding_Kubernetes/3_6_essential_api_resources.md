@@ -1,6 +1,6 @@
 # Essential API Resources
 
-K8s API resources allow for storing and running applicatpoins in a K8s environment
+K8s API resources allow for storing and running applications in a K8s environment
 
 Some of the essential resources include:
 - Pod - The smallest deployable unit in Kubernetes, which can contain one or more containers.
@@ -13,3 +13,7 @@ Some of the essential resources include:
 - Ingress/Gateway API - A resource that manages external access to services, typically HTTP, providing load balancing, SSL termination, and routing.
 
 - Persistent Volumes - A resource to provide long-term storage for Pods, allowing data to persist across Pod restarts.
+
+# Basic Resources Visualization
+
+![alt text](../../../images/resources.png)
