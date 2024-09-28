@@ -43,6 +43,9 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.tabbed:
+      alternate_style: true
+
 
 nav:
   - Home: https://example.com
@@ -69,6 +72,8 @@ nav:
               - 5 - Pod Basic Features:
                 - kubernetes/ckad/5_Pod_Basic_Features/5_1_Options.md
                 - kubernetes/ckad/5_Pod_Basic_Features/5_2_Pod_Structure_And_Use.md
+                - kubernetes/ckad/5_Pod_Basic_Features/5_3_Pods_The_DevOps_Way.md
+                - kubernetes/ckad/5_Pod_Basic_Features/5_4_Generating_YAML_Files.md
       - Python:
           Flask:
             - Baiscs: python/Flask/Basics.md
