@@ -7,7 +7,7 @@ In DevOps the purpose is to deploy apps consistently. To do this, you use config
 ## Declarative vs Imperative
 
 - Creating resources based on YAML files is referred to as declarative
-- Creating resouces from the command line is called declarative.
+- Creating resources from the command line is called imperative.
 
 !!! note
 

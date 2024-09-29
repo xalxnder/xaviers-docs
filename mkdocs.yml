@@ -62,8 +62,11 @@ nav:
           - Architecture: docker/architecture.md
           - Basics: docker/basics.md
       - Kubernetes:
+          - kubernetes/index.md
           - CKAD:
               - kubernetes/ckad/index.md
+              - Labs:
+                - kubernetes/ckad/labs/5_Pod_Basic_Features.md
               - 3 - Understanding Kubernetes:
                 - kubernetes/ckad/3_Understanding_Kubernetes/3_1_CNC.md
                 - kubernetes/ckad/3_Understanding_Kubernetes/3_2_how_k8s_enables_cncf.md
@@ -75,6 +78,10 @@ nav:
                 - kubernetes/ckad/5_Pod_Basic_Features/5_3_Pods_The_DevOps_Way.md
                 - kubernetes/ckad/5_Pod_Basic_Features/5_4_Generating_YAML_Files.md
                 - kubernetes/ckad/5_Pod_Basic_Features/5_5_Multi_Container_Pods.md
+                - kubernetes/ckad/5_Pod_Basic_Features/5_6_Namespaced.md
+                - kubernetes/ckad/5_Pod_Basic_Features/5_7_Pod_Troubleshooting.md
+              - 6 - Pod Advanced Features:
+                - kubernetes/ckad/6_Pod_Advanced_Features/6_1_Init_Containers.md
 
       - Python:
           Flask:

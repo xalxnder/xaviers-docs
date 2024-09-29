@@ -55,3 +55,8 @@ To generate YAML files, add `--dry-run=client -o yaml > my.yaml` as an arg to `k
         ```bash
         pod/myginx created
         ```
+
+
+!!! note
+    
+    If defining multiple resources in one YAML file, always seperate them with "---"
