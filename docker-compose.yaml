@@ -8,8 +8,4 @@ services:
       - ~/mkdocs/:/docs
     stdin_open: true
     tty: true
-    labels:
-      - "traefik.enable=true"
-      - "traefik.http.routers.mkdocs.rule=Host(`ruesworld`)"
-      - "traefik.http.routers.mkdocs.entrypoints=web"
-      - "traefik.http.services.mkdocs.loadbalancer.server.port=8000"
+    
