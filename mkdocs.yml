@@ -67,6 +67,7 @@ nav:
               - kubernetes/ckad/index.md
               - Labs:
                 - kubernetes/ckad/labs/5_Pod_Basic_Features.md
+                - kubernetes/ckad/labs/6_Pod_Advanced_Features.md
               - 3 - Understanding Kubernetes:
                 - kubernetes/ckad/3_Understanding_Kubernetes/3_1_CNC.md
                 - kubernetes/ckad/3_Understanding_Kubernetes/3_2_how_k8s_enables_cncf.md
@@ -82,6 +83,16 @@ nav:
                 - kubernetes/ckad/5_Pod_Basic_Features/5_7_Pod_Troubleshooting.md
               - 6 - Pod Advanced Features:
                 - kubernetes/ckad/6_Pod_Advanced_Features/6_1_Init_Containers.md
+                - kubernetes/ckad/6_Pod_Advanced_Features/6_2_Sidecar_Containers.md
+                - kubernetes/ckad/6_Pod_Advanced_Features/6_3_Port_Forwarding.md
+                - kubernetes/ckad/6_Pod_Advanced_Features/6_4_Restart_Policy.md
+                - kubernetes/ckad/6_Pod_Advanced_Features/6_5_Jobs.md
+                - kubernetes/ckad/6_Pod_Advanced_Features/6_6_Cron_Jobs.md
+                - kubernetes/ckad/6_Pod_Advanced_Features/6_7_Cleaning_Up_Resources.md
+
+                                
+
+
 
       - Python:
           Flask:
